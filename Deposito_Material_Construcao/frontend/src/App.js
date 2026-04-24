@@ -5,7 +5,7 @@ function App() {
     <>
       <GlobalStyles />
     </>
-  )
+  );
 }
 
 export default App;
