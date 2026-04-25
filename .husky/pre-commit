@@ -1,0 +1,1 @@
+cd Deposito_Material_Construcao/frontend && npx lint-staged
